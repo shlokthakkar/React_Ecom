@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "password": "123456",
+    "orderHistory": [
+      {
+        "orderId": 101,
+        "product": "Classic White T-Shirt",
+        "amount": 19.99
+      },
+      {
+        "orderId": 102,
+        "product": "Blue Denim Jacket",
+        "amount": 49.99
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "password": "password",
+    "orderHistory": [
+      {
+        "orderId": 103,
+        "product": "Black Hoodie",
+        "amount": 39.99
+      }
+    ]
+  }
+]

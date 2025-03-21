@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Classic White T-Shirt",
+    "price": 19.99,
+    "image": "https://via.placeholder.com/300x300.png?text=White+T-Shirt",
+    "description": "A comfortable and classic white t-shirt for everyday wear."
+  },
+  {
+    "id": 2,
+    "name": "Blue Denim Jacket",
+    "price": 49.99,
+    "image": "https://via.placeholder.com/300x300.png?text=Denim+Jacket",
+    "description": "Stylish blue denim jacket perfect for any season."
+  },
+  {
+    "id": 3,
+    "name": "Black Hoodie",
+    "price": 39.99,
+    "image": "https://via.placeholder.com/300x300.png?text=Black+Hoodie",
+    "description": "Cozy black hoodie with front pockets."
+  },
+  {
+    "id": 4,
+    "name": "Red Flannel Shirt",
+    "price": 29.99,
+    "image": "https://via.placeholder.com/300x300.png?text=Flannel+Shirt",
+    "description": "Classic red flannel shirt made of 100% cotton."
+  },
+  {
+    "id": 5,
+    "name": "Grey Sweatpants",
+    "price": 24.99,
+    "image": "https://via.placeholder.com/300x300.png?text=Grey+Sweatpants",
+    "description": "Comfortable grey sweatpants for lounging or workouts."
+  }
+]
